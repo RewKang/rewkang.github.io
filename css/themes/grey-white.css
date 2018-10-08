@@ -1,8 +1,13 @@
 /* Theme */
 
-main {
+main{
 	background: #485564;
 	color: #FAFAFA;
+}
+
+.tagline a {
+	color: #FAFAFA;
+	text-decoration: none;
 }
 
 .icons-social a {
